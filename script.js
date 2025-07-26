@@ -33,12 +33,6 @@
       </div>
     </div>
 
-    <h2>Book Your Tour</h2>
-    <div class="links">
-      <a href="https://exampletour.com/book?ref=audrey" target="_blank" class="btn">
-        <button type="button">Book Now 🌟</button>
-      </a>
-    </div>
   </div>
   <script src="script.js"></script>
 </body>
